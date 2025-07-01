@@ -2,12 +2,12 @@ import React from "react";
 import { motion } from "framer-motion";
 
 const leaderboardData = [
-  { name: "Samarth Dagar", id: "2024UEE4038", points: "10 pts" },
-  { name: "Ekta", id: "2023UCA2142", points: "9.5 pts" },
+  { name: "Aarohi Jain", id: "2024UCA1806", points: "19 pts" },
+  { name: "Bhumika Aswal", id: "2024UCA1802", points: "17 pts" },
+  { name: "Samarth Dagar", id: "2024UEE4038", points: "12 pts" },
+  { name: "Vamika Arya", id: "2024UCS1705", points: "12 pts" },
+  { name: "Ashish", id: "2024UCA1859", points: "12 pts" },
   { name: "Hemang Bhat", id: "2024UCA1829", points: "9 pts" },
-  { name: "Aarohi Jain", id: "2024UCA1806", points: "8 pts" },
-  { name: "Daksh Dagar", id: "2024UCS1705", points: "7 pts" },
-  { name: "Vivek Kumar", id: "2024UEC2509", points: "7 pts" },
 ];
 
 const getMedal = (index) => {
