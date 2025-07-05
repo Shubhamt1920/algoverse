@@ -5,7 +5,7 @@ const leaderboardData = [
   { name: "Aarohi Jain", id: "2024UCA1806", points: "19 pts" },
   { name: "Bhumika Aswal", id: "2024UIN2353", points: "17 pts" },
   { name: "Samarth Dagar", id: "2024UEE4038", points: "12 pts" },
-  { name: "Vamika Arya", id: "2024UCS1705", points: "12 pts" },
+  { name: "Vamika Arya", id: "2024UCA1802", points: "12 pts" },
   { name: "Ashish", id: "2024UCA1859", points: "12 pts" },
   { name: "Hemang Bhat", id: "2024UCA1829", points: "9 pts" },
 ];
